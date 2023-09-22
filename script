@@ -1,0 +1,2 @@
+const dwarfs = ["Torin", "Balin", "Bofur", "Bombur", "Bifur"];
+dwarf.push("Fili");
